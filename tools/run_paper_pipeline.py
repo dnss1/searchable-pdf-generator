@@ -1,6 +1,5 @@
 """
 논문 평가와 같은 설정으로 추론해서 fixture 생성.
-설정은 research/scripts/evaluation/evaluate_full.py 기준.
 
     # paddleocr 2.10.0 환경
     python tools/run_paper_pipeline.py \

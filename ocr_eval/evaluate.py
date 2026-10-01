@@ -8,7 +8,7 @@ GT vs 예측 비교.
     python -m ocr_eval.evaluate --tsv pairs.tsv     # id<TAB>gt<TAB>pred
 
 page 는 페이지 전체를 이어붙여, line 은 같은 줄 번호끼리 비교.
-둘은 재는 게 다르다 (research/docs/평가지표_정의.md).
+둘은 재는 게 다르다.
 """
 from __future__ import annotations
 
