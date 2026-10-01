@@ -1,0 +1,508 @@
+{
+ "id": "e1-ja-zh",
+ "title": "E1 · 일중 혼재",
+ "description": "일본어·중국어 혼재 · 다국어 모델의 차별점",
+ "source": "석사 학위연구 자체 구축 평가셋(75p/8도메인) 수록 페이지",
+ "confidence_source": "model",
+ "model": "stage2c",
+ "tags": [
+  "일본어",
+  "한자",
+  "다국어"
+ ],
+ "pipeline": "paper-eval",
+ "pdf": "assets/e1-ja-zh/searchable.pdf",
+ "pages": [
+  {
+   "page_number": 1,
+   "image": "assets/e1-ja-zh/p001.jpg",
+   "width": 1131,
+   "height": 1600,
+   "is_multi_column": false,
+   "column_boundary": null,
+   "lines": [
+    {
+     "text": "アジア文化造形学会誌第 17号2019",
+     "bbox": [
+      418,
+      53,
+      710,
+      76
+     ],
+     "confidence": 0.981,
+     "column": 0,
+     "layout_type": "text",
+     "order": 0
+    },
+    {
+     "text": "あれに見えるは茶摘みじゃないかあかねだすきに菅の笠",
+     "bbox": [
+      157,
+      195,
+      702,
+      221
+     ],
+     "confidence": 0.981,
+     "column": 0,
+     "layout_type": "text",
+     "order": 1
+    },
+    {
+     "text": "日和つづきの今日此頃を心のどかに摘みつつ歌う",
+     "bbox": [
+      158,
+      264,
+      636,
+      290
+     ],
+     "confidence": 0.999,
+     "column": 0,
+     "layout_type": "text",
+     "order": 2
+    },
+    {
+     "text": "摘めよ摘め摘め摘まねばならぬ摘まにゃ日本の茶にならぬ",
+     "bbox": [
+      156,
+      299,
+      721,
+      323
+     ],
+     "confidence": 0.998,
+     "column": 0,
+     "layout_type": "text",
+     "order": 3
+    },
+    {
+     "text": "「懶(ものう)げな雨」",
+     "bbox": [
+      166,
+      365,
+      377,
+      392
+     ],
+     "confidence": 0.957,
+     "column": 0,
+     "layout_type": "text",
+     "order": 4
+    },
+    {
+     "text": "「物憂し」は気が進まない、こころが晴れないなどの意味。「懶惰」(らんだ)の懶の",
+     "bbox": [
+      186,
+      400,
+      966,
+      429
+     ],
+     "confidence": 0.991,
+     "column": 0,
+     "layout_type": "text",
+     "order": 5
+    },
+    {
+     "text": "字をあてていることから、倦怠感のある、うんざりしたようないやいやながら、といつ",
+     "bbox": [
+      154,
+      435,
+      962,
+      462
+     ],
+     "confidence": 0.972,
+     "column": 0,
+     "layout_type": "text",
+     "order": 6
+    },
+    {
+     "text": "た気分を含むのであろう。",
+     "bbox": [
+      155,
+      468,
+      394,
+      494
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 7
+    },
+    {
+     "text": "(「四季のことば辞典」より)",
+     "bbox": [
+      481,
+      471,
+      740,
+      496
+     ],
+     "confidence": 0.999,
+     "column": 0,
+     "layout_type": "text",
+     "order": 8
+    },
+    {
+     "text": "梅雨前半の陰鬱なシトシト雨のような感じだろうか。",
+     "bbox": [
+      175,
+      503,
+      666,
+      530
+     ],
+     "confidence": 0.998,
+     "column": 0,
+     "layout_type": "text",
+     "order": 9
+    },
+    {
+     "text": "「どうぞこのまま」",
+     "bbox": [
+      164,
+      566,
+      340,
+      594
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 10
+    },
+    {
+     "text": "1976(昭和 51)年",
+     "bbox": [
+      360,
+      570,
+      518,
+      593
+     ],
+     "confidence": 0.962,
+     "column": 0,
+     "layout_type": "text",
+     "order": 11
+    },
+    {
+     "text": "丸山圭子詞·曲·歌",
+     "bbox": [
+      556,
+      570,
+      779,
+      595
+     ],
+     "confidence": 0.899,
+     "column": 0,
+     "layout_type": "text",
+     "order": 12
+    },
+    {
+     "text": "この確かな時間だけが今の二人に与えられた",
+     "bbox": [
+      156,
+      633,
+      613,
+      659
+     ],
+     "confidence": 0.998,
+     "column": 0,
+     "layout_type": "text",
+     "order": 13
+    },
+    {
+     "text": "唯一のあかしなのです、ふれあうことの喜びを",
+     "bbox": [
+      153,
+      668,
+      614,
+      693
+     ],
+     "confidence": 0.977,
+     "column": 0,
+     "layout_type": "text",
+     "order": 14
+    },
+    {
+     "text": "あなたのぬくもりに感じてそして生きているのです",
+     "bbox": [
+      153,
+      702,
+      698,
+      727
+     ],
+     "confidence": 0.999,
+     "column": 0,
+     "layout_type": "text",
+     "order": 15
+    },
+    {
+     "text": "くもりガラスを伝わる雨のしずくのように",
+     "bbox": [
+      155,
+      736,
+      594,
+      761
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 16
+    },
+    {
+     "text": "ただひとすじにただひとすじにただひたむきに",
+     "bbox": [
+      152,
+      770,
+      698,
+      796
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 17
+    },
+    {
+     "text": "それはばかげたあこがれカ",
+     "bbox": [
+      154,
+      839,
+      424,
+      861
+     ],
+     "confidence": 0.996,
+     "column": 0,
+     "layout_type": "text",
+     "order": 18
+    },
+    {
+     "text": "気まぐれな恋だとしても",
+     "bbox": [
+      152,
+      874,
+      403,
+      897
+     ],
+     "confidence": 0.999,
+     "column": 0,
+     "layout_type": "text",
+     "order": 19
+    },
+    {
+     "text": "雨はきっと降り続く",
+     "bbox": [
+      150,
+      907,
+      379,
+      932
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 20
+    },
+    {
+     "text": "くもりガラスをたたく雨の音かぞえながら",
+     "bbox": [
+      153,
+      942,
+      611,
+      966
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 21
+    },
+    {
+     "text": "*どうぞこのままどうぞこのまま",
+     "bbox": [
+      192,
+      976,
+      582,
+      1001
+     ],
+     "confidence": 0.982,
+     "column": 0,
+     "layout_type": "text",
+     "order": 22
+    },
+    {
+     "text": "どうぞやまないで",
+     "bbox": [
+      227,
+      1010,
+      414,
+      1034
+     ],
+     "confidence": 0.949,
+     "column": 0,
+     "layout_type": "text",
+     "order": 23
+    },
+    {
+     "text": "さよならは涙とうらはら",
+     "bbox": [
+      152,
+      1044,
+      400,
+      1068
+     ],
+     "confidence": 0.992,
+     "column": 0,
+     "layout_type": "text",
+     "order": 24
+    },
+    {
+     "text": "さめたコーヒーのようなもの",
+     "bbox": [
+      151,
+      1077,
+      444,
+      1103
+     ],
+     "confidence": 0.998,
+     "column": 0,
+     "layout_type": "text",
+     "order": 25
+    },
+    {
+     "text": "だからいつまでもこのまま",
+     "bbox": [
+      150,
+      1112,
+      444,
+      1137
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 26
+    },
+    {
+     "text": "米印2回くりかえし",
+     "bbox": [
+      224,
+      1147,
+      412,
+      1171
+     ],
+     "confidence": 0.999,
+     "column": 0,
+     "layout_type": "text",
+     "order": 27
+    },
+    {
+     "text": "「山小屋の灯」",
+     "bbox": [
+      158,
+      1209,
+      290,
+      1238
+     ],
+     "confidence": 0.999,
+     "column": 0,
+     "layout_type": "text",
+     "order": 28
+    },
+    {
+     "text": "1947 (昭和 22)年",
+     "bbox": [
+      337,
+      1213,
+      517,
+      1236
+     ],
+     "confidence": 0.985,
+     "column": 0,
+     "layout_type": "text",
+     "order": 29
+    },
+    {
+     "text": "米山正夫詞·曲",
+     "bbox": [
+      549,
+      1213,
+      732,
+      1237
+     ],
+     "confidence": 0.972,
+     "column": 0,
+     "layout_type": "text",
+     "order": 30
+    },
+    {
+     "text": "近江 俊郎歌",
+     "bbox": [
+      771,
+      1214,
+      911,
+      1239
+     ],
+     "confidence": 0.902,
+     "column": 0,
+     "layout_type": "text",
+     "order": 31
+    },
+    {
+     "text": "たそがれの灯はほのかに点りて懐かしき山小屋は麓の小路よ",
+     "bbox": [
+      149,
+      1277,
+      776,
+      1302
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 32
+    },
+    {
+     "text": "想い出の窓により君を価べば風は過ぎし日の唄をばささやくよ",
+     "bbox": [
+      148,
+      1311,
+      797,
+      1337
+     ],
+     "confidence": 0.964,
+     "column": 0,
+     "layout_type": "text",
+     "order": 33
+    },
+    {
+     "text": "暮れゆくは白馬か穗高はあかねよ樺の木のほの白き影もうすれゆく",
+     "bbox": [
+      148,
+      1380,
+      836,
+      1406
+     ],
+     "confidence": 0.952,
+     "column": 0,
+     "layout_type": "text",
+     "order": 34
+    },
+    {
+     "text": "さびしさに君呼べど我が声空しく遥か谷間よりこだまは帰り来る",
+     "bbox": [
+      150,
+      1414,
+      816,
+      1440
+     ],
+     "confidence": 0.997,
+     "column": 0,
+     "layout_type": "text",
+     "order": 35
+    },
+    {
+     "text": "25",
+     "bbox": [
+      518,
+      1531,
+      584,
+      1555
+     ],
+     "confidence": 0.991,
+     "column": 0,
+     "layout_type": "text",
+     "order": 36
+    }
+   ]
+  }
+ ]
+}

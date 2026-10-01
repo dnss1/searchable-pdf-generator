@@ -1,0 +1,326 @@
+{
+ "id": "a1-digital",
+ "title": "A1 · 디지털 고딕",
+ "description": "깨끗한 디지털 학술 문서 · 기준선",
+ "source": "석사 학위연구 자체 구축 평가셋(75p/8도메인) 수록 페이지",
+ "confidence_source": "model",
+ "model": "stage2c",
+ "tags": [
+  "디지털",
+  "고딕",
+  "학술"
+ ],
+ "pipeline": "paper-eval",
+ "pdf": "assets/a1-digital/searchable.pdf",
+ "pages": [
+  {
+   "page_number": 1,
+   "image": "assets/a1-digital/p001.jpg",
+   "width": 1132,
+   "height": 1600,
+   "is_multi_column": false,
+   "column_boundary": null,
+   "lines": [
+    {
+     "text": "제1장 서 론",
+     "bbox": [
+      452,
+      156,
+      680,
+      191
+     ],
+     "confidence": 0.866,
+     "column": 0,
+     "layout_type": "text",
+     "order": 0
+    },
+    {
+     "text": "제1절. 연구목적 및 배경",
+     "bbox": [
+      159,
+      265,
+      512,
+      291
+     ],
+     "confidence": 0.975,
+     "column": 0,
+     "layout_type": "text",
+     "order": 1
+    },
+    {
+     "text": "1. 연구배경",
+     "bbox": [
+      166,
+      361,
+      293,
+      387
+     ],
+     "confidence": 0.994,
+     "column": 0,
+     "layout_type": "text",
+     "order": 2
+    },
+    {
+     "text": "오늘 날 4차 산업혁명 흐름 속에 IT(Information Technology) 산업분야",
+     "bbox": [
+      178,
+      449,
+      977,
+      474
+     ],
+     "confidence": 0.957,
+     "column": 0,
+     "layout_type": "text",
+     "order": 3
+    },
+    {
+     "text": "[1]는 나날이 발전되고 있다. 특히 서류 보관에 중요성이 커짐에 따라 문",
+     "bbox": [
+      156,
+      491,
+      975,
+      516
+     ],
+     "confidence": 0.937,
+     "column": 0,
+     "layout_type": "text",
+     "order": 4
+    },
+    {
+     "text": "서 전자화 시스템[2]을 도입하는 산업이 증가하고 있다. 전통적인 문서처",
+     "bbox": [
+      156,
+      535,
+      975,
+      561
+     ],
+     "confidence": 0.975,
+     "column": 0,
+     "layout_type": "text",
+     "order": 5
+    },
+    {
+     "text": "리 과정은 사람이 직접 텍스트를 타이핑을 하는 방법으로 상당히 불편하",
+     "bbox": [
+      157,
+      580,
+      975,
+      602
+     ],
+     "confidence": 0.951,
+     "column": 0,
+     "layout_type": "text",
+     "order": 6
+    },
+    {
+     "text": "고 비효율적인 방법이다. 디지털화 되지 않은 문서로부터 데이터를 추출",
+     "bbox": [
+      158,
+      624,
+      975,
+      647
+     ],
+     "confidence": 0.954,
+     "column": 0,
+     "layout_type": "text",
+     "order": 7
+    },
+    {
+     "text": "하는 과정에서 많은 산업분야가 오류나 문제로 어려움을 격었다. 하지만",
+     "bbox": [
+      158,
+      666,
+      976,
+      691
+     ],
+     "confidence": 0.964,
+     "column": 0,
+     "layout_type": "text",
+     "order": 8
+    },
+    {
+     "text": "인공지능의 발달로 인해 수작업 위주의 입력 저장방식을 자동화 방식 으로",
+     "bbox": [
+      160,
+      712,
+      972,
+      732
+     ],
+     "confidence": 0.934,
+     "column": 0,
+     "layout_type": "text",
+     "order": 9
+    },
+    {
+     "text": "변화시킨 4차산업기술인 광학문자인식기술(Optical character recognition;",
+     "bbox": [
+      157,
+      753,
+      976,
+      780
+     ],
+     "confidence": 0.987,
+     "column": 0,
+     "layout_type": "text",
+     "order": 10
+    },
+    {
+     "text": "OCR)이 개발[3]되었다.",
+     "bbox": [
+      158,
+      797,
+      408,
+      820
+     ],
+     "confidence": 0.99,
+     "column": 0,
+     "layout_type": "text",
+     "order": 11
+    },
+    {
+     "text": "초기 OCR 기술은 1928년 독일의 G.Taushek가 미리 준비된 몇 개의 표",
+     "bbox": [
+      178,
+      840,
+      975,
+      864
+     ],
+     "confidence": 0.962,
+     "column": 0,
+     "layout_type": "text",
+     "order": 12
+    },
+    {
+     "text": "준패턴 문자와 입력문자를 공학적으로 비교하여 가장 표준패턴과 유사한",
+     "bbox": [
+      157,
+      885,
+      975,
+      907
+     ],
+     "confidence": 0.972,
+     "column": 0,
+     "layout_type": "text",
+     "order": 13
+    },
+    {
+     "text": "패턴을 대응시켜 입력문자를 인식하는 패턴 매칭법[4]을 이용한 문자인식",
+     "bbox": [
+      158,
+      928,
+      974,
+      951
+     ],
+     "confidence": 0.969,
+     "column": 0,
+     "layout_type": "text",
+     "order": 14
+    },
+    {
+     "text": "의 원리적 특허를 등록함으로서 시작되었다. 이후 많은 연구를 통해",
+     "bbox": [
+      155,
+      969,
+      976,
+      995
+     ],
+     "confidence": 0.946,
+     "column": 0,
+     "layout_type": "text",
+     "order": 15
+    },
+    {
+     "text": "AI(Artificial Intelligence)기술과 융합한 다양한 OCR 기술이 개발되었고",
+     "bbox": [
+      157,
+      1014,
+      975,
+      1039
+     ],
+     "confidence": 0.963,
+     "column": 0,
+     "layout_type": "text",
+     "order": 16
+    },
+    {
+     "text": "물류와 금융 산업을 필두로 여러 분야에서 상용화되었다. [그림 1]에서 보",
+     "bbox": [
+      157,
+      1059,
+      975,
+      1082
+     ],
+     "confidence": 0.973,
+     "column": 0,
+     "layout_type": "text",
+     "order": 17
+    },
+    {
+     "text": "이듯이 기존의 OCR 기술로는 인식이 불가능했던 근대서적의 옛 문자나",
+     "bbox": [
+      158,
+      1101,
+      976,
+      1126
+     ],
+     "confidence": 0.951,
+     "column": 0,
+     "layout_type": "text",
+     "order": 18
+    },
+    {
+     "text": "복잡한 레이아웃도 현재 발달된 OCR기술로 대응이 가능해졌다. 1860년 대",
+     "bbox": [
+      157,
+      1144,
+      975,
+      1169
+     ],
+     "confidence": 0.95,
+     "column": 0,
+     "layout_type": "text",
+     "order": 19
+    },
+    {
+     "text": "이후에 제작된 서적, 잡지를 대상으로 실험결과 기준의 OCR 기술보다 향",
+     "bbox": [
+      159,
+      1189,
+      977,
+      1211
+     ],
+     "confidence": 0.97,
+     "column": 0,
+     "layout_type": "text",
+     "order": 20
+    },
+    {
+     "text": "상된 정밀도를 보였다.",
+     "bbox": [
+      158,
+      1233,
+      401,
+      1256
+     ],
+     "confidence": 0.977,
+     "column": 0,
+     "layout_type": "text",
+     "order": 21
+    },
+    {
+     "text": "-1-",
+     "bbox": [
+      537,
+      1417,
+      595,
+      1445
+     ],
+     "confidence": 0.71,
+     "column": 0,
+     "layout_type": "text",
+     "order": 22
+    }
+   ]
+  }
+ ]
+}

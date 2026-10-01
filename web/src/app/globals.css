@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Inter', 'Noto Sans KR', sans-serif;
+  background-color: theme('colors.background-light');
+  color: theme('colors.text-primary-light');
+}
+
+.dark body {
+  background-color: theme('colors.background-dark');
+  color: theme('colors.text-primary-dark');
+}
+
+/* 결과 비교 뷰의 OCR 텍스트 오버레이 — bbox 위치에 정확히 글자가 들어가도록 */
+.ocr-bbox-text {
+  white-space: nowrap;
+  line-height: 1;
+  font-family: 'Noto Sans KR', 'Inter', sans-serif;
+}
+
+/* 부드러운 스크롤 */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(148, 163, 184, 0.5) transparent;
+}
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.4);
+  border-radius: 4px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.6);
+}
+
+/* fade-in 애니메이션 */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fadeIn 0.35s ease-out;
+}

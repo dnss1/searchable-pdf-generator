@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+node_modules
+.next/
+out/
+*.tsbuildinfo
+.DS_Store

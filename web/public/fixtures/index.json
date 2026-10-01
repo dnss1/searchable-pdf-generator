@@ -1,0 +1,55 @@
+{
+ "samples": [
+  {
+   "id": "a1-digital",
+   "title": "A1 · 디지털 고딕",
+   "description": "깨끗한 디지털 학술 문서 · 기준선",
+   "tags": [
+    "디지털",
+    "고딕",
+    "학술"
+   ],
+   "recommended_model": "stage2c",
+   "filename": "한기대_OCR동향_p002.png",
+   "fixture": "fixtures/a1-digital.json"
+  },
+  {
+   "id": "c1-scan-old",
+   "title": "C1 · 옛 스캔",
+   "description": "1988년 인쇄물 스캔 · 노이즈와 저대비",
+   "tags": [
+    "스캔",
+    "노이즈",
+    "옛인쇄"
+   ],
+   "recommended_model": "stage2c",
+   "filename": "C1_01_경상대_조선후기상업_1988_본문_p022.png",
+   "fixture": "fixtures/c1-scan-old.json"
+  },
+  {
+   "id": "c2-hanja",
+   "title": "C2 · 한자혼용",
+   "description": "1990년 행정문서 · 한글과 한자 혼용",
+   "tags": [
+    "한자혼용",
+    "행정문서"
+   ],
+   "recommended_model": "stage2c",
+   "filename": "C2_01_공보처_한소정상회담_1990_본문_p003.png",
+   "fixture": "fixtures/c2-hanja.json"
+  },
+  {
+   "id": "e1-ja-zh",
+   "title": "E1 · 일중 혼재",
+   "description": "일본어·중국어 혼재 · 다국어 모델의 차별점",
+   "tags": [
+    "일본어",
+    "한자",
+    "다국어"
+   ],
+   "recommended_model": "stage2c",
+   "filename": "E1_01_일본어_계절구분_본문_p004.png",
+   "fixture": "fixtures/e1-ja-zh.json"
+  }
+ ]
+}

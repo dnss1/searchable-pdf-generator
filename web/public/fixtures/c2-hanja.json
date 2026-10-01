@@ -1,0 +1,390 @@
+{
+ "id": "c2-hanja",
+ "title": "C2 · 한자혼용",
+ "description": "1990년 행정문서 · 한글과 한자 혼용",
+ "source": "석사 학위연구 자체 구축 평가셋(75p/8도메인) 수록 페이지",
+ "confidence_source": "model",
+ "model": "stage2c",
+ "tags": [
+  "한자혼용",
+  "행정문서"
+ ],
+ "pipeline": "paper-eval",
+ "pdf": "assets/c2-hanja/searchable.pdf",
+ "pages": [
+  {
+   "page_number": 1,
+   "image": "assets/c2-hanja/p001.jpg",
+   "width": 1131,
+   "height": 1600,
+   "is_multi_column": false,
+   "column_boundary": null,
+   "lines": [
+    {
+     "text": "*KBS 特輯\"(衛星中繼)",
+     "bbox": [
+      150,
+      147,
+      440,
+      178
+     ],
+     "confidence": 0.878,
+     "column": 0,
+     "layout_type": "text",
+     "order": 0
+    },
+    {
+     "text": "日時 : 6.8(金)20: 05~22: 50(45分)",
+     "bbox": [
+      182,
+      193,
+      646,
+      223
+     ],
+     "confidence": 0.964,
+     "column": 0,
+     "layout_type": "text",
+     "order": 1
+    },
+    {
+     "text": "題目: 韓·蘇,韓·美頂上會談 決算(國際視角)",
+     "bbox": [
+      179,
+      240,
+      735,
+      266
+     ],
+     "confidence": 0.945,
+     "column": 0,
+     "layout_type": "text",
+     "order": 2
+    },
+    {
+     "text": "뉴스焦點\"",
+     "bbox": [
+      182,
+      295,
+      308,
+      340
+     ],
+     "confidence": 0.922,
+     "column": 0,
+     "layout_type": "text",
+     "order": 3
+    },
+    {
+     "text": "日時 : 6.8(金) 22 : 50~23:35 (45分)",
+     "bbox": [
+      184,
+      344,
+      647,
+      379
+     ],
+     "confidence": 0.938,
+     "column": 0,
+     "layout_type": "text",
+     "order": 4
+    },
+    {
+     "text": "題目 : 現地報告,世界를 본다",
+     "bbox": [
+      177,
+      394,
+      554,
+      423
+     ],
+     "confidence": 0.932,
+     "column": 0,
+     "layout_type": "text",
+     "order": 5
+    },
+    {
+     "text": "(蘇聯 新革命의 明과 暗)",
+     "bbox": [
+      290,
+      439,
+      575,
+      466
+     ],
+     "confidence": 0.9,
+     "column": 0,
+     "layout_type": "text",
+     "order": 6
+    },
+    {
+     "text": "“深夜討論”",
+     "bbox": [
+      140,
+      497,
+      297,
+      533
+     ],
+     "confidence": 0.797,
+     "column": 0,
+     "layout_type": "text",
+     "order": 7
+    },
+    {
+     "text": "日時 : 6.9(土) 22: 20~24: 00 (100分)",
+     "bbox": [
+      183,
+      547,
+      657,
+      577
+     ],
+     "confidence": 0.945,
+     "column": 0,
+     "layout_type": "text",
+     "order": 8
+    },
+    {
+     "text": "題目: 韓·蘇,韓·美頂上會談決算",
+     "bbox": [
+      181,
+      591,
+      613,
+      621
+     ],
+     "confidence": 0.967,
+     "column": 0,
+     "layout_type": "text",
+     "order": 9
+    },
+    {
+     "text": "MBC—TV",
+     "bbox": [
+      141,
+      658,
+      278,
+      679
+     ],
+     "confidence": 0.971,
+     "column": 0,
+     "layout_type": "text",
+     "order": 10
+    },
+    {
+     "text": "°MBC 時事討論",
+     "bbox": [
+      167,
+      719,
+      358,
+      752
+     ],
+     "confidence": 0.965,
+     "column": 0,
+     "layout_type": "text",
+     "order": 11
+    },
+    {
+     "text": "해정아전브",
+     "bbox": [
+      504,
+      721,
+      756,
+      777
+     ],
+     "confidence": 0.945,
+     "column": 0,
+     "layout_type": "text",
+     "order": 12
+    },
+    {
+     "text": "日時 : 6.1(金)21 : 5~23 :20 (885分)",
+     "bbox": [
+      170,
+      761,
+      652,
+      798
+     ],
+     "confidence": 0.936,
+     "column": 0,
+     "layout_type": "text",
+     "order": 13
+    },
+    {
+     "text": "국가기록원",
+     "bbox": [
+      501,
+      794,
+      854,
+      872
+     ],
+     "confidence": 0.985,
+     "column": 0,
+     "layout_type": "text",
+     "order": 14
+    },
+    {
+     "text": "題目:韓·蘇頂上會談",
+     "bbox": [
+      172,
+      813,
+      467,
+      839
+     ],
+     "confidence": 0.989,
+     "column": 0,
+     "layout_type": "text",
+     "order": 15
+    },
+    {
+     "text": "°MBC 時事討論",
+     "bbox": [
+      167,
+      875,
+      357,
+      906
+     ],
+     "confidence": 0.907,
+     "column": 0,
+     "layout_type": "text",
+     "order": 16
+    },
+    {
+     "text": "日時 : 6.8(金) 21: 55~23:20 (85分)",
+     "bbox": [
+      180,
+      919,
+      642,
+      953
+     ],
+     "confidence": 0.938,
+     "column": 0,
+     "layout_type": "text",
+     "order": 17
+    },
+    {
+     "text": "題目 : 韓·蘇修交와 韓半島",
+     "bbox": [
+      169,
+      967,
+      515,
+      995
+     ],
+     "confidence": 0.886,
+     "column": 0,
+     "layout_type": "text",
+     "order": 18
+    },
+    {
+     "text": "나. TV 行事中繼",
+     "bbox": [
+      107,
+      1051,
+      369,
+      1088
+     ],
+     "confidence": 0.929,
+     "column": 0,
+     "layout_type": "text",
+     "order": 19
+    },
+    {
+     "text": "歡送行事 : 6. 3(日) 14: 40~14: 55(15分)",
+     "bbox": [
+      142,
+      1118,
+      642,
+      1153
+     ],
+     "confidence": 0.932,
+     "column": 0,
+     "layout_type": "text",
+     "order": 20
+    },
+    {
+     "text": "- KBS 1TV, MBC TV 生中繼",
+     "bbox": [
+      159,
+      1163,
+      530,
+      1196
+     ],
+     "confidence": 0.916,
+     "column": 0,
+     "layout_type": "text",
+     "order": 21
+    },
+    {
+     "text": "歡迎行事 : 6. 8(金) 19 : 00~19: 30(330分)",
+     "bbox": [
+      142,
+      1230,
+      642,
+      1263
+     ],
+     "confidence": 0.909,
+     "column": 0,
+     "layout_type": "text",
+     "order": 22
+    },
+    {
+     "text": "– KBS 1TV, MBC TV生中繼",
+     "bbox": [
+      157,
+      1274,
+      528,
+      1308
+     ],
+     "confidence": 0.949,
+     "column": 0,
+     "layout_type": "text",
+     "order": 23
+    },
+    {
+     "text": "特別衛星生放送 : 6. 5(火)07 : 40~12: 00(4時間 20分)",
+     "bbox": [
+      140,
+      1341,
+      809,
+      1376
+     ],
+     "confidence": 0.946,
+     "column": 0,
+     "layout_type": "text",
+     "order": 24
+    },
+    {
+     "text": "-內容: 韓·蘇頂上會談意義,成果,現地爨圍氣、 및大統領記者會見",
+     "bbox": [
+      156,
+      1387,
+      1010,
+      1424
+     ],
+     "confidence": 0.937,
+     "column": 0,
+     "layout_type": "text",
+     "order": 25
+    },
+    {
+     "text": "- KBS 1TV, MBC TV 서울一美國 2元連結 衛星生放送",
+     "bbox": [
+      157,
+      1429,
+      803,
+      1469
+     ],
+     "confidence": 0.939,
+     "column": 0,
+     "layout_type": "text",
+     "order": 26
+    },
+    {
+     "text": "iii",
+     "bbox": [
+      537,
+      1490,
+      570,
+      1511
+     ],
+     "confidence": 0.935,
+     "column": 0,
+     "layout_type": "text",
+     "order": 27
+    }
+   ]
+  }
+ ]
+}

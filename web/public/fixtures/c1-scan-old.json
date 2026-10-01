@@ -1,0 +1,638 @@
+{
+ "id": "c1-scan-old",
+ "title": "C1 · 옛 스캔",
+ "description": "1988년 인쇄물 스캔 · 노이즈와 저대비",
+ "source": "석사 학위연구 자체 구축 평가셋(75p/8도메인) 수록 페이지",
+ "confidence_source": "model",
+ "model": "stage2c",
+ "tags": [
+  "스캔",
+  "노이즈",
+  "옛인쇄"
+ ],
+ "pipeline": "paper-eval",
+ "pdf": "assets/c1-scan-old/searchable.pdf",
+ "pages": [
+  {
+   "page_number": 1,
+   "image": "assets/c1-scan-old/p001.jpg",
+   "width": 1056,
+   "height": 1600,
+   "is_multi_column": false,
+   "column_boundary": null,
+   "lines": [
+    {
+     "text": "서술내용의 변화",
+     "bbox": [
+      485,
+      135,
+      776,
+      172
+     ],
+     "confidence": 0.958,
+     "column": 0,
+     "layout_type": "text",
+     "order": 0
+    },
+    {
+     "text": "ⅢII. 국사교과서의",
+     "bbox": [
+      258,
+      139,
+      498,
+      168
+     ],
+     "confidence": 0.867,
+     "column": 0,
+     "layout_type": "text",
+     "order": 1
+    },
+    {
+     "text": "1. 74년도 교과서의 검토",
+     "bbox": [
+      137,
+      249,
+      427,
+      276
+     ],
+     "confidence": 0.944,
+     "column": 0,
+     "layout_type": "text",
+     "order": 2
+    },
+    {
+     "text": "검인정이던 국사교과서가 「국정 」으로",
+     "bbox": [
+      154,
+      307,
+      563,
+      332
+     ],
+     "confidence": 0.946,
+     "column": 0,
+     "layout_type": "text",
+     "order": 3
+    },
+    {
+     "text": "국사교과",
+     "bbox": [
+      825,
+      308,
+      917,
+      334
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 4
+    },
+    {
+     "text": "바뀌어 중·고등학교",
+     "bbox": [
+      550,
+      309,
+      798,
+      332
+     ],
+     "confidence": 0.976,
+     "column": 0,
+     "layout_type": "text",
+     "order": 5
+    },
+    {
+     "text": "쓰이기 시작한 해는 유신체제하인",
+     "bbox": [
+      191,
+      361,
+      565,
+      391
+     ],
+     "confidence": 0.969,
+     "column": 0,
+     "layout_type": "text",
+     "order": 6
+    },
+    {
+     "text": "1973 년",
+     "bbox": [
+      844,
+      362,
+      921,
+      392
+     ],
+     "confidence": 0.927,
+     "column": 0,
+     "layout_type": "text",
+     "order": 7
+    },
+    {
+     "text": "서로",
+     "bbox": [
+      132,
+      364,
+      206,
+      388
+     ],
+     "confidence": 0.792,
+     "column": 0,
+     "layout_type": "text",
+     "order": 8
+    },
+    {
+     "text": "1974년이다. 문교부는",
+     "bbox": [
+      587,
+      364,
+      814,
+      390
+     ],
+     "confidence": 0.988,
+     "column": 0,
+     "layout_type": "text",
+     "order": 9
+    },
+    {
+     "text": "6월 23일, 1974학년도부터 초·중·고등학교의 국사교육 강화를",
+     "bbox": [
+      137,
+      419,
+      835,
+      447
+     ],
+     "confidence": 0.959,
+     "column": 0,
+     "layout_type": "text",
+     "order": 10
+    },
+    {
+     "text": "위해",
+     "bbox": [
+      867,
+      421,
+      914,
+      447
+     ],
+     "confidence": 0.997,
+     "column": 0,
+     "layout_type": "text",
+     "order": 11
+    },
+    {
+     "text": "교과서를 현재의 검인정으로부터",
+     "bbox": [
+      133,
+      474,
+      487,
+      505
+     ],
+     "confidence": 0.961,
+     "column": 0,
+     "layout_type": "text",
+     "order": 12
+    },
+    {
+     "text": "국정으로 바꾼다고 발표하고 집필자를",
+     "bbox": [
+      471,
+      476,
+      918,
+      503
+     ],
+     "confidence": 0.939,
+     "column": 0,
+     "layout_type": "text",
+     "order": 13
+    },
+    {
+     "text": "선정하여 「국정」교과서의 집필을 의뢰하였다. 그리하여 1974년",
+     "bbox": [
+      132,
+      533,
+      828,
+      559
+     ],
+     "confidence": 0.977,
+     "column": 0,
+     "layout_type": "text",
+     "order": 14
+    },
+    {
+     "text": "1학기",
+     "bbox": [
+      837,
+      533,
+      919,
+      560
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 15
+    },
+    {
+     "text": "부터 중·고등학교에서는 「국정」교과서를 가지고 국사교육을 하게 되었",
+     "bbox": [
+      131,
+      587,
+      916,
+      618
+     ],
+     "confidence": 0.953,
+     "column": 0,
+     "layout_type": "text",
+     "order": 16
+    },
+    {
+     "text": "으며 그  뒤 현재까지 국사교과서의 국정화는 그대로 유지되고 있다.",
+     "bbox": [
+      130,
+      644,
+      895,
+      675
+     ],
+     "confidence": 0.934,
+     "column": 0,
+     "layout_type": "text",
+     "order": 17
+    },
+    {
+     "text": "232 면이던",
+     "bbox": [
+      270,
+      703,
+      381,
+      728
+     ],
+     "confidence": 0.996,
+     "column": 0,
+     "layout_type": "text",
+     "order": 18
+    },
+    {
+     "text": "1979 년부터",
+     "bbox": [
+      134,
+      704,
+      253,
+      728
+     ],
+     "confidence": 0.997,
+     "column": 0,
+     "layout_type": "text",
+     "order": 19
+    },
+    {
+     "text": "74년 「국정」교과서를",
+     "bbox": [
+      383,
+      704,
+      640,
+      729
+     ],
+     "confidence": 0.968,
+     "column": 0,
+     "layout_type": "text",
+     "order": 20
+    },
+    {
+     "text": "302면으로 늘려 발간하",
+     "bbox": [
+      630,
+      706,
+      913,
+      729
+     ],
+     "confidence": 0.927,
+     "column": 0,
+     "layout_type": "text",
+     "order": 21
+    },
+    {
+     "text": "1981 년말 새로운 교육과정이 공포되면서 교과서는 또 한",
+     "bbox": [
+      286,
+      760,
+      918,
+      788
+     ],
+     "confidence": 0.937,
+     "column": 0,
+     "layout_type": "text",
+     "order": 22
+    },
+    {
+     "text": "였다. 그리고",
+     "bbox": [
+      132,
+      762,
+      265,
+      786
+     ],
+     "confidence": 0.969,
+     "column": 0,
+     "layout_type": "text",
+     "order": 23
+    },
+    {
+     "text": "차례",
+     "bbox": [
+      132,
+      817,
+      177,
+      842
+     ],
+     "confidence": 1.0,
+     "column": 0,
+     "layout_type": "text",
+     "order": 24
+    },
+    {
+     "text": "개편되어 상·하로 분리, 각각권  178페이지 총 356페이지로 분량면",
+     "bbox": [
+      193,
+      817,
+      916,
+      844
+     ],
+     "confidence": 0.933,
+     "column": 0,
+     "layout_type": "text",
+     "order": 25
+    },
+    {
+     "text": "에서",
+     "bbox": [
+      131,
+      873,
+      177,
+      899
+     ],
+     "confidence": 0.858,
+     "column": 0,
+     "layout_type": "text",
+     "order": 26
+    },
+    {
+     "text": "50페이지 정도 늘어난 셈이다. 1982 년부터 중·고교의 국사교육",
+     "bbox": [
+      200,
+      873,
+      917,
+      902
+     ],
+     "confidence": 0.944,
+     "column": 0,
+     "layout_type": "text",
+     "order": 27
+    },
+    {
+     "text": "「국정 」교과서를 통하여 이루어지고 있고 지금 또한",
+     "bbox": [
+      246,
+      931,
+      843,
+      958
+     ],
+     "confidence": 0.971,
+     "column": 0,
+     "layout_type": "text",
+     "order": 28
+    },
+    {
+     "text": "은",
+     "bbox": [
+      131,
+      932,
+      163,
+      956
+     ],
+     "confidence": 0.696,
+     "column": 0,
+     "layout_type": "text",
+     "order": 29
+    },
+    {
+     "text": "개편된",
+     "bbox": [
+      171,
+      932,
+      243,
+      955
+     ],
+     "confidence": 0.999,
+     "column": 0,
+     "layout_type": "text",
+     "order": 30
+    },
+    {
+     "text": "사용",
+     "bbox": [
+      842,
+      933,
+      918,
+      960
+     ],
+     "confidence": 0.993,
+     "column": 0,
+     "layout_type": "text",
+     "order": 31
+    },
+    {
+     "text": "하고 있는 「국정」교과서도 또 다시 개편작업 중에 있다. 41)",
+     "bbox": [
+      128,
+      983,
+      805,
+      1018
+     ],
+     "confidence": 0.927,
+     "column": 0,
+     "layout_type": "text",
+     "order": 32
+    },
+    {
+     "text": "「국정」교과서에 대해서는 그동안 학계에서",
+     "bbox": [
+      155,
+      1046,
+      628,
+      1071
+     ],
+     "confidence": 0.945,
+     "column": 0,
+     "layout_type": "text",
+     "order": 33
+    },
+    {
+     "text": "「국정」교과서가 갖는 의",
+     "bbox": [
+      618,
+      1047,
+      915,
+      1072
+     ],
+     "confidence": 0.93,
+     "column": 0,
+     "layout_type": "text",
+     "order": 34
+    },
+    {
+     "text": "미와 관련하여 집중적 논의와 비판이 있어 왔다. 42) 대체적인",
+     "bbox": [
+      129,
+      1099,
+      804,
+      1129
+     ],
+     "confidence": 0.974,
+     "column": 0,
+     "layout_type": "text",
+     "order": 35
+    },
+    {
+     "text": "의견 은",
+     "bbox": [
+      837,
+      1100,
+      920,
+      1131
+     ],
+     "confidence": 0.911,
+     "column": 0,
+     "layout_type": "text",
+     "order": 36
+    },
+    {
+     "text": "「국정」국사교과서로의 개편은 정부가 교과서를 독점적으로 장악하고,",
+     "bbox": [
+      138,
+      1157,
+      895,
+      1185
+     ],
+     "confidence": 0.961,
+     "column": 0,
+     "layout_type": "text",
+     "order": 37
+    },
+    {
+     "text": "하나의 교재로 한국사 교육을 실시하여 과거를 통제하고",
+     "bbox": [
+      172,
+      1213,
+      814,
+      1240
+     ],
+     "confidence": 0.952,
+     "column": 0,
+     "layout_type": "text",
+     "order": 38
+    },
+    {
+     "text": "또",
+     "bbox": [
+      134,
+      1216,
+      176,
+      1239
+     ],
+     "confidence": 0.997,
+     "column": 0,
+     "layout_type": "text",
+     "order": 39
+    },
+    {
+     "text": "그정권을",
+     "bbox": [
+      800,
+      1216,
+      916,
+      1242
+     ],
+     "confidence": 0.9,
+     "column": 0,
+     "layout_type": "text",
+     "order": 40
+    },
+    {
+     "text": "41) 중학교 교육법 제55호 제1항 반포일자 : 1987. 3. 1. 시행일자: 1989. 3. 1.",
+     "bbox": [
+      135,
+      1280,
+      860,
+      1304
+     ],
+     "confidence": 0.943,
+     "column": 0,
+     "layout_type": "text",
+     "order": 41
+    },
+    {
+     "text": "고등학교 교육법 제 155 호 제 1항, 반포일자 : 1988. 3. 31. 시행일자 : 1990. 3. 1.",
+     "bbox": [
+      178,
+      1306,
+      892,
+      1330
+     ],
+     "confidence": 0.924,
+     "column": 0,
+     "layout_type": "text",
+     "order": 42
+    },
+    {
+     "text": "42)李順權,「歷史教育과 民族主義」創作과 批評社,1983.",
+     "bbox": [
+      137,
+      1332,
+      659,
+      1357
+     ],
+     "confidence": 0.961,
+     "column": 0,
+     "layout_type": "text",
+     "order": 43
+    },
+    {
+     "text": "박준성, 「올바른 역사이해와 「국정」국사교과서의 문제점」『교과교육 』 1, 푸른니무, 1988",
+     "bbox": [
+      179,
+      1359,
+      924,
+      1382
+     ],
+     "confidence": 0.952,
+     "column": 0,
+     "layout_type": "text",
+     "order": 44
+    },
+    {
+     "text": "강만길, 「국사교과서의 문제점」創作과 批評, 여름호, 1974.",
+     "bbox": [
+      181,
+      1386,
+      707,
+      1408
+     ],
+     "confidence": 0.967,
+     "column": 0,
+     "layout_type": "text",
+     "order": 45
+    },
+    {
+     "text": "24-",
+     "bbox": [
+      499,
+      1453,
+      576,
+      1477
+     ],
+     "confidence": 0.882,
+     "column": 0,
+     "layout_type": "text",
+     "order": 46
+    }
+   ]
+  }
+ ]
+}
