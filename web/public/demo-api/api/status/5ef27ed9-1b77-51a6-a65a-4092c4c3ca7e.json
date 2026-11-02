@@ -1,0 +1,18 @@
+{
+  "job_id": "5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e",
+  "filename": "KCI_FI000929310_page_017_03.png",
+  "status": "completed",
+  "progress_percent": 100.0,
+  "current_page": 1,
+  "total_pages": 1,
+  "message": "미리 처리해 둔 결과입니다.",
+  "sub_stage": null,
+  "pdf_url": "/api/files/processed/5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e.pdf",
+  "raw_file_url": "/files/raw/5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e/KCI_FI000929310_page_017_03.png",
+  "created_at": null,
+  "completed_at": null,
+  "processing_time_seconds": null,
+  "total_text_blocks": null,
+  "average_confidence": null,
+  "is_double_column": null
+}

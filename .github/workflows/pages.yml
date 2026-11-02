@@ -17,19 +17,32 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: web
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: web/package-lock.json
-      - run: npm ci
+          cache-dependency-path: |
+            web/package-lock.json
+            web-v1/package-lock.json
+
       # 프로젝트 사이트는 /<repo> 아래에 붙으므로 basePath 를 넣어 빌드한다
-      - run: BASE_PATH=/${GITHUB_REPOSITORY#*/} npx next build
+      # v2: /<repo>/ — 서버 없이 web/public/demo-api 의 정적 응답으로 동작
+      - name: Build v2
+        working-directory: web
+        run: |
+          npm ci
+          STATIC_DEMO=1 BASE_PATH=/${GITHUB_REPOSITORY#*/} npx next build
+
+      # v1: /<repo>/v1/ — 첫 번째 비교 데모
+      - name: Build v1
+        working-directory: web-v1
+        run: |
+          npm ci
+          BASE_PATH=/${GITHUB_REPOSITORY#*/}/v1 npx next build
+          cp -r out ../web/out/v1
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web/out

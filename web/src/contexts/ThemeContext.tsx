@@ -12,28 +12,40 @@ interface ThemeContextType {
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined)
 
 export function ThemeProvider({ children }: { children: ReactNode }) {
-  // 기본 라이트. 사용자 마지막 선택이 우선.
-  const [theme, setTheme] = useState<Theme>('light')
+  const [theme, setTheme] = useState<Theme>('dark')
+  const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
-    const saved = localStorage.getItem('workbench-pdf-theme') as Theme | null
-    const initial: Theme = saved || 'light'
-    setTheme(initial)
-    document.documentElement.classList.toggle('dark', initial === 'dark')
+    setMounted(true)
+    // Load theme from localStorage
+    const savedTheme = localStorage.getItem('theme') as Theme
+    if (savedTheme) {
+      setTheme(savedTheme)
+      document.documentElement.classList.toggle('dark', savedTheme === 'dark')
+    } else {
+      // Set default dark theme
+      document.documentElement.classList.add('dark')
+    }
   }, [])
 
   const toggleTheme = () => {
-    const next: Theme = theme === 'dark' ? 'light' : 'dark'
-    setTheme(next)
-    localStorage.setItem('workbench-pdf-theme', next)
-    document.documentElement.classList.toggle('dark', next === 'dark')
+    const newTheme = theme === 'dark' ? 'light' : 'dark'
+    setTheme(newTheme)
+    localStorage.setItem('theme', newTheme)
+    document.documentElement.classList.toggle('dark', newTheme === 'dark')
   }
 
-  return <ThemeContext.Provider value={{ theme, toggleTheme }}>{children}</ThemeContext.Provider>
+  return (
+    <ThemeContext.Provider value={{ theme, toggleTheme }}>
+      {children}
+    </ThemeContext.Provider>
+  )
 }
 
-export function useTheme(): ThemeContextType {
-  const ctx = useContext(ThemeContext)
-  if (!ctx) throw new Error('useTheme must be used within ThemeProvider')
-  return ctx
+export function useTheme() {
+  const context = useContext(ThemeContext)
+  if (context === undefined) {
+    throw new Error('useTheme must be used within a ThemeProvider')
+  }
+  return context
 }

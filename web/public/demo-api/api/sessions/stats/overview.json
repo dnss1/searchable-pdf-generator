@@ -1,0 +1,12 @@
+{
+  "total_sessions": 1,
+  "total_documents": 2,
+  "completed_documents": 2,
+  "processing_documents": 0,
+  "failed_documents": 0,
+  "total_pages": 2,
+  "total_text_blocks": 103,
+  "success_rate": 100.0,
+  "average_processing_time": 0,
+  "recent_activity_count": 2
+}

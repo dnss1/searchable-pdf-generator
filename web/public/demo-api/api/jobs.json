@@ -1,0 +1,38 @@
+[
+  {
+    "job_id": "6a042add-e4b1-5430-8499-2cfab2be273d",
+    "filename": "복합학_복합학_KCI_FI002538018_page_007_cleaned.png",
+    "status": "completed",
+    "progress_percent": 100.0,
+    "current_page": 1,
+    "total_pages": 1,
+    "message": null,
+    "sub_stage": null,
+    "pdf_url": "/api/files/processed/6a042add-e4b1-5430-8499-2cfab2be273d.pdf",
+    "raw_file_url": null,
+    "created_at": "2026-11-03T00:32:51.802247",
+    "completed_at": "2026-11-03T00:32:51.802247",
+    "processing_time_seconds": null,
+    "total_text_blocks": 40,
+    "average_confidence": 0.9409288197755814,
+    "is_double_column": false
+  },
+  {
+    "job_id": "5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e",
+    "filename": "KCI_FI000929310_page_017_03.png",
+    "status": "completed",
+    "progress_percent": 100.0,
+    "current_page": 1,
+    "total_pages": 1,
+    "message": null,
+    "sub_stage": null,
+    "pdf_url": "/api/files/processed/5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e.pdf",
+    "raw_file_url": null,
+    "created_at": "2026-11-03T00:32:51.802247",
+    "completed_at": "2026-11-03T00:32:51.802247",
+    "processing_time_seconds": null,
+    "total_text_blocks": 63,
+    "average_confidence": 0.9587096032642183,
+    "is_double_column": true
+  }
+]

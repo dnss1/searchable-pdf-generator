@@ -1,0 +1,20 @@
+[
+  {
+    "sample_id": "kci-mixed-script",
+    "job_id": "6a042add-e4b1-5430-8499-2cfab2be273d",
+    "title": "KCI 논문 국한문·영문 혼용 본문",
+    "description": "한자·영문이 섞인 단일 단 본문",
+    "filename": "복합학_복합학_KCI_FI002538018_page_007_cleaned.png",
+    "page_count": 1,
+    "thumbnail_url": "/api/demo/samples/kci-mixed-script/input.png"
+  },
+  {
+    "sample_id": "kci-two-column",
+    "job_id": "5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e",
+    "title": "KCI 논문 2단 본문 (이미지)",
+    "description": "2단 레이아웃 스캔 이미지",
+    "filename": "KCI_FI000929310_page_017_03.png",
+    "page_count": 1,
+    "thumbnail_url": "/api/demo/samples/kci-two-column/input.png"
+  }
+]

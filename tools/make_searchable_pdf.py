@@ -14,7 +14,7 @@ try:
 except ImportError:
     sys.exit("PyMuPDF 가 필요합니다:  pip install pymupdf")
 
-ROOT = Path(__file__).resolve().parents[1] / "web" / "public"
+ROOT = Path(__file__).resolve().parents[1] / "web-v1" / "public"  # v1 demo data
 
 # embed 하면 한글 전용은 한자가 notdef, Noto CJK 는 15MB 넘음
 BUILTIN_CJK = "korea"

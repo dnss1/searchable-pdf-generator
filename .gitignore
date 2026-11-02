@@ -8,3 +8,8 @@ node_modules
 out/
 *.tsbuildinfo
 .DS_Store
+
+# v2 demo server runtime data (rebuilt from demo_samples/ at startup)
+server/data/
+.env.local
+*.log

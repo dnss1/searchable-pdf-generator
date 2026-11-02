@@ -1,24 +1,18 @@
 {
-  "name": "searchable-pdf-generator-web",
-  "version": "1.0.0",
+  "name": "searchable-pdf-generator-v2",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3000",
+    "dev": "next dev -p 5017 -H 127.0.0.1",
     "build": "next build",
-    "build:pages": "BASE_PATH=/searchable-pdf-generator next build",
-    "serve": "npx --yes serve out -l 6020"
+    "start": "next start -p 5017 -H 127.0.0.1"
   },
   "dependencies": {
-    "@dnd-kit/core": "^6.3.1",
-    "@dnd-kit/sortable": "^10.0.0",
-    "@dnd-kit/utilities": "^3.2.2",
-    "axios": "^1.6.2",
     "lucide-react": "^0.554.0",
     "next": "^14.0.4",
     "pdfjs-dist": "^3.11.174",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-dropzone": "^14.2.3"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.5",

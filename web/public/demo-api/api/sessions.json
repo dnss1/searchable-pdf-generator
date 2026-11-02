@@ -1,0 +1,37 @@
+[
+  {
+    "session_id": "demo-test-session",
+    "session_name": "테스트 세션",
+    "description": "미리 처리해 둔 샘플 문서로 결과 화면을 체험하는 세션입니다.",
+    "created_at": "2026-11-03T00:32:51.818182",
+    "updated_at": "2026-11-03T00:32:51.818182",
+    "total_documents": 2,
+    "completed_documents": 2,
+    "documents": [
+      {
+        "job_id": "6a042add-e4b1-5430-8499-2cfab2be273d",
+        "original_filename": "복합학_복합학_KCI_FI002538018_page_007_cleaned.png",
+        "status": "completed",
+        "progress_percent": 100.0,
+        "current_page": 1,
+        "total_pages": 1,
+        "order": 0,
+        "is_selected": false,
+        "pdf_url": "/api/files/processed/6a042add-e4b1-5430-8499-2cfab2be273d.pdf",
+        "added_at": "2026-11-03T00:32:51.831973"
+      },
+      {
+        "job_id": "5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e",
+        "original_filename": "KCI_FI000929310_page_017_03.png",
+        "status": "completed",
+        "progress_percent": 100.0,
+        "current_page": 1,
+        "total_pages": 1,
+        "order": 1,
+        "is_selected": false,
+        "pdf_url": "/api/files/processed/5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e.pdf",
+        "added_at": "2026-11-03T00:32:51.856356"
+      }
+    ]
+  }
+]

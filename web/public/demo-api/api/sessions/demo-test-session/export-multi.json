@@ -1,0 +1,13 @@
+{
+  "export_id": "demo-test-session-multi",
+  "status": "pending",
+  "total_files": 2,
+  "formats": [
+    "pdf",
+    "txt",
+    "xml",
+    "json",
+    "excel"
+  ],
+  "message": "Export started"
+}

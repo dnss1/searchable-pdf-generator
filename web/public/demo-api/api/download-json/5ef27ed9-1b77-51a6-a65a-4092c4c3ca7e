@@ -1,0 +1,920 @@
+{
+  "job_id": "5ef27ed9-1b77-51a6-a65a-4092c4c3ca7e",
+  "has_bbox": true,
+  "page_count": 1,
+  "total_bboxes": 63,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 1240,
+      "height": 1754,
+      "lines": [
+        {
+          "text": "서는 스트레스원에 대한 문제 해결적인 적극적 후로 쉽게 해결할 수 있는 문제에 대해서도 해결",
+          "bbox": [
+            198.0,
+            302.0,
+            1044.0,
+            323.0
+          ],
+          "confidence": 0.9659197926521301,
+          "char_confidences": [],
+          "column": null,
+          "layout_type": "text",
+          "reading_order": 0
+        },
+        {
+          "text": "대처가 오히려 정서적 신체적 병리 증상을 더 악",
+          "bbox": [
+            197.0,
+            337.0,
+            642.0,
+            358.0
+          ],
+          "confidence": 0.9359394311904907,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 1
+        },
+        {
+          "text": "화시키는 것으로 보인다.",
+          "bbox": [
+            195.0,
+            371.0,
+            397.0,
+            395.0
+          ],
+          "confidence": 0.9749721884727478,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 2
+        },
+        {
+          "text": "대부분의 대학생들이 대학수학능력검사 점수",
+          "bbox": [
+            227.0,
+            406.0,
+            609.0,
+            431.0
+          ],
+          "confidence": 0.9642446637153625,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 3
+        },
+        {
+          "text": "에 맞추어 전공지식과 진로에 대한 확신없이 대",
+          "bbox": [
+            196.0,
+            443.0,
+            607.0,
+            464.0
+          ],
+          "confidence": 0.9538241028785706,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 4
+        },
+        {
+          "text": "학에 진학하였다가(이지헌, 이은희, 이득연, 임현",
+          "bbox": [
+            196.0,
+            477.0,
+            607.0,
+            501.0
+          ],
+          "confidence": 0.9564048051834106,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 5
+        },
+        {
+          "text": "선, 최태산, 1998)대학진학 후에도 자신의 전공과",
+          "bbox": [
+            196.0,
+            512.0,
+            606.0,
+            535.0
+          ],
+          "confidence": 0.9858784675598145,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 6
+        },
+        {
+          "text": "관련된 일관적이고 장기적인 진로설정을 하지 못",
+          "bbox": [
+            195.0,
+            548.0,
+            607.0,
+            571.0
+          ],
+          "confidence": 0.9521863460540771,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 7
+        },
+        {
+          "text": "하고 주로 4학년 때 구체적인 진로결정을 하다보",
+          "bbox": [
+            197.0,
+            586.0,
+            607.0,
+            607.0
+          ],
+          "confidence": 0.9862820506095886,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 8
+        },
+        {
+          "text": "니(황상민, 이세안, 1996), 3-4학년 때 진로설정",
+          "bbox": [
+            197.0,
+            620.0,
+            606.0,
+            641.0
+          ],
+          "confidence": 0.9648017883300781,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 9
+        },
+        {
+          "text": "및 취업관련 갈등으로 인하여 심리적 고통을 경",
+          "bbox": [
+            196.0,
+            657.0,
+            607.0,
+            678.0
+          ],
+          "confidence": 0.9765793681144714,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 10
+        },
+        {
+          "text": "험하는 것으로 보인다(이은희, 송진한, 이지헌,",
+          "bbox": [
+            197.0,
+            692.0,
+            613.0,
+            713.0
+          ],
+          "confidence": 0.9439939260482788,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 11
+        },
+        {
+          "text": "1998). 이러한 진로설정  및 취업관련 갈등은 자존",
+          "bbox": [
+            195.0,
+            727.0,
+            608.0,
+            747.0
+          ],
+          "confidence": 0.9614054560661316,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 12
+        },
+        {
+          "text": "감을 저하시켜서 결국은 우울증을 유발하는 것으",
+          "bbox": [
+            196.0,
+            761.0,
+            608.0,
+            785.0
+          ],
+          "confidence": 0.9451784491539001,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 13
+        },
+        {
+          "text": "로 나타났다(정의석, 노안영, 2001).",
+          "bbox": [
+            194.0,
+            796.0,
+            479.0,
+            823.0
+          ],
+          "confidence": 0.9833168387413025,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 14
+        },
+        {
+          "text": "IMIF를 전후하여 대학생들이 상담실에 찾아와",
+          "bbox": [
+            226.0,
+            832.0,
+            609.0,
+            856.0
+          ],
+          "confidence": 0.9572107791900635,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 15
+        },
+        {
+          "text": "불안  및 강박증상의 호소문제가 증가한 것으로",
+          "bbox": [
+            196.0,
+            904.0,
+            610.0,
+            928.0
+          ],
+          "confidence": 0.9318804144859314,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 16
+        },
+        {
+          "text": "나타났는데(박현순, 1999), 최근 우리나라는 경기",
+          "bbox": [
+            196.0,
+            939.0,
+            610.0,
+            963.0
+          ],
+          "confidence": 0.9854183793067932,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 17
+        },
+        {
+          "text": "불황으로 인한 취업한파가 지속되면서 구직자 10",
+          "bbox": [
+            196.0,
+            974.0,
+            609.0,
+            998.0
+          ],
+          "confidence": 0.9918310642242432,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 18
+        },
+        {
+          "text": "명중 6명은 취업에 대한 스트레스로 우울증이나",
+          "bbox": [
+            197.0,
+            1010.0,
+            606.0,
+            1030.0
+          ],
+          "confidence": 0.9772113561630249,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 19
+        },
+        {
+          "text": "소화불량, 불면증, 두통, 대인기피증 등의 질병에",
+          "bbox": [
+            195.0,
+            1044.0,
+            606.0,
+            1068.0
+          ],
+          "confidence": 0.9506687521934509,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 20
+        },
+        {
+          "text": "시달리고 있는 것으로 나타났다(연합뉴스, 2003, 8,",
+          "bbox": [
+            196.0,
+            1079.0,
+            607.0,
+            1105.0
+          ],
+          "confidence": 0.967785656452179,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 21
+        },
+        {
+          "text": "20). 이들의 35.2%는 이러한 취업스트레스에 대해",
+          "bbox": [
+            195.0,
+            1117.0,
+            608.0,
+            1138.0
+          ],
+          "confidence": 0.9405120015144348,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 22
+        },
+        {
+          "text": "서 주로 별다른 대책없이 지내고 있으며 32.9%는",
+          "bbox": [
+            194.0,
+            1149.0,
+            606.0,
+            1173.0
+          ],
+          "confidence": 0.9228157997131348,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 23
+        },
+        {
+          "text": "미취업을 비관해서 자살을 생각해 본 적이 있다",
+          "bbox": [
+            194.0,
+            1185.0,
+            608.0,
+            1211.0
+          ],
+          "confidence": 0.9227631092071533,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 24
+        },
+        {
+          "text": "고 응답하였다.",
+          "bbox": [
+            194.0,
+            1220.0,
+            317.0,
+            1247.0
+          ],
+          "confidence": 0.9710720777511597,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 25
+        },
+        {
+          "text": "대처방식의 효과성은 상황에 대한 통제가능성",
+          "bbox": [
+            229.0,
+            1258.0,
+            605.0,
+            1279.0
+          ],
+          "confidence": 0.9612259268760681,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 26
+        },
+        {
+          "text": "(Conway & Terry, 1992)에 대한 주관적인 지각",
+          "bbox": [
+            195.0,
+            1292.0,
+            608.0,
+            1318.0
+          ],
+          "confidence": 0.9582527279853821,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 27
+        },
+        {
+          "text": "(Endler, Speer, Johnson & Flett, 2000)이 중요하",
+          "bbox": [
+            194.0,
+            1327.0,
+            608.0,
+            1353.0
+          ],
+          "confidence": 0.9268526434898376,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 28
+        },
+        {
+          "text": "다. 그런데 쉽게 해답을 찾을 수 없는 문제를 풀",
+          "bbox": [
+            194.0,
+            1362.0,
+            618.0,
+            1387.0
+          ],
+          "confidence": 0.9787812232971191,
+          "char_confidences": [],
+          "column": "left",
+          "layout_type": "text",
+          "reading_order": 29
+        },
+        {
+          "text": "대학생들이 경험하는 생활스트레스와 우울: 공변량 구조모형을 통한 대처방식의 조절효과 검증",
+          "bbox": [
+            416.0,
+            226.0,
+            1045.0,
+            250.0
+          ],
+          "confidence": 0.971324622631073,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 30
+        },
+        {
+          "text": "하려는 시도를 하지 않고(Kofta & Sedak, 1989)",
+          "bbox": [
+            629.0,
+            336.0,
+            1045.0,
+            359.0
+          ],
+          "confidence": 0.988983690738678,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 31
+        },
+        {
+          "text": "무력감에 빠져 우울증을 유발하는 경우처럼",
+          "bbox": [
+            635.0,
+            373.0,
+            1044.0,
+            394.0
+          ],
+          "confidence": 0.9560977816581726,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 32
+        },
+        {
+          "text": "(Seligman, 1975; 장형석, 2000에서 재인용), 극심",
+          "bbox": [
+            631.0,
+            407.0,
+            1045.0,
+            431.0
+          ],
+          "confidence": 0.944004237651825,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 33
+        },
+        {
+          "text": "한 취업난으로 대학졸업자의 56%가 취업하지 못",
+          "bbox": [
+            633.0,
+            442.0,
+            1046.0,
+            466.0
+          ],
+          "confidence": 0.9544158577919006,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 34
+        },
+        {
+          "text": "하고 있는 현실(동아일보, 2003. 6. 10)에서 대학생",
+          "bbox": [
+            634.0,
+            477.0,
+            1046.0,
+            501.0
+          ],
+          "confidence": 0.9856835603713989,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 35
+        },
+        {
+          "text": "들의 적극적 구직노력은 개인이 통제할 수 없는",
+          "bbox": [
+            633.0,
+            512.0,
+            1045.0,
+            536.0
+          ],
+          "confidence": 0.9390262365341187,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 36
+        },
+        {
+          "text": "경제적, 사회적 요인으로 인하여 오히려 지속적인",
+          "bbox": [
+            634.0,
+            548.0,
+            1045.0,
+            572.0
+          ],
+          "confidence": 0.9489530324935913,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 37
+        },
+        {
+          "text": "좌절 경험을 통한 무기력 심리를 유발하여 결국",
+          "bbox": [
+            634.0,
+            586.0,
+            1045.0,
+            607.0
+          ],
+          "confidence": 0.9814069867134094,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 38
+        },
+        {
+          "text": "은 우울증상을 심화시키는 것으로 보인다.",
+          "bbox": [
+            631.0,
+            621.0,
+            977.0,
+            642.0
+          ],
+          "confidence": 0.9169638156890869,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 39
+        },
+        {
+          "text": "따라서 진로설정  및 취업문제로 인한 갈등을",
+          "bbox": [
+            662.0,
+            654.0,
+            1045.0,
+            679.0
+          ],
+          "confidence": 0.98199063539505,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 40
+        },
+        {
+          "text": "심하게 겪고 있는 대학생들을 대상으로 한 진로",
+          "bbox": [
+            601.0,
+            692.0,
+            1044.0,
+            713.0
+          ],
+          "confidence": 0.9225521683692932,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 41
+        },
+        {
+          "text": "및 취업 상담을 실시할 때에는 구직을 위한 구체",
+          "bbox": [
+            630.0,
+            727.0,
+            1045.0,
+            747.0
+          ],
+          "confidence": 0.939496636390686,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 42
+        },
+        {
+          "text": "적이고 직접적인 노력에 초점을 맞추기 보다는",
+          "bbox": [
+            631.0,
+            758.0,
+            1045.0,
+            786.0
+          ],
+          "confidence": 0.9734109044075012,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 43
+        },
+        {
+          "text": "떨어진 자존감을 향상시키는 상담전략을 통하여",
+          "bbox": [
+            634.0,
+            794.0,
+            1046.0,
+            822.0
+          ],
+          "confidence": 0.9747207760810852,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 44
+        },
+        {
+          "text": "우울과 자살을 예방할 수 있을 것으로 여겨진다.",
+          "bbox": [
+            629.0,
+            832.0,
+            1045.0,
+            856.0
+          ],
+          "confidence": 0.9537174701690674,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 45
+        },
+        {
+          "text": "호소하는 문제가 학업  및 진로, 우울  및 자살문제, 즉 스트레스에 대한 심리치료적 개입은 일반적으",
+          "bbox": [
+            194.0,
+            867.0,
+            1045.0,
+            891.0
+          ],
+          "confidence": 0.9628974199295044,
+          "char_confidences": [],
+          "column": null,
+          "layout_type": "text",
+          "reading_order": 46
+        },
+        {
+          "text": "로 예방(스트레스 관리 훈련)과 치료(상담)의 형",
+          "bbox": [
+            630.0,
+            905.0,
+            1044.0,
+            926.0
+          ],
+          "confidence": 0.9858590364456177,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 47
+        },
+        {
+          "text": "태를 통하여 이루어지는데(Hardy & Barkham,",
+          "bbox": [
+            634.0,
+            937.0,
+            1046.0,
+            966.0
+          ],
+          "confidence": 0.9891700744628906,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 48
+        },
+        {
+          "text": "1999), 장기적인 진로  및 취업관련 갈등을 겪고",
+          "bbox": [
+            633.0,
+            973.0,
+            1045.0,
+            998.0
+          ],
+          "confidence": 0.9790948033332825,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 49
+        },
+        {
+          "text": "있는 대학생들에게는 상담을 통한 심리치료적 개",
+          "bbox": [
+            634.0,
+            1008.0,
+            1046.0,
+            1032.0
+          ],
+          "confidence": 0.9905174970626831,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 50
+        },
+        {
+          "text": "입이 보다 바람직한 전략임을 시사한다.",
+          "bbox": [
+            636.0,
+            1044.0,
+            958.0,
+            1065.0
+          ],
+          "confidence": 0.9789397716522217,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 51
+        },
+        {
+          "text": "결론적으로 본 연구를 통하여 대학생들이 경",
+          "bbox": [
+            667.0,
+            1080.0,
+            1045.0,
+            1104.0
+          ],
+          "confidence": 0.9530820250511169,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 52
+        },
+        {
+          "text": "험하는 우울증상이 심각한 수준이며, 주로 학업문",
+          "bbox": [
+            635.0,
+            1115.0,
+            1045.0,
+            1139.0
+          ],
+          "confidence": 0.9704980850219727,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 53
+        },
+        {
+          "text": "제와 진로문제로 인한 스트레스를 가장 많이 경",
+          "bbox": [
+            635.0,
+            1152.0,
+            1044.0,
+            1173.0
+          ],
+          "confidence": 0.9718783497810364,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 54
+        },
+        {
+          "text": "험하며, 친구와 가치관 문제로 인한 생활스트레스",
+          "bbox": [
+            636.0,
+            1188.0,
+            1044.0,
+            1209.0
+          ],
+          "confidence": 0.9482713937759399,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 55
+        },
+        {
+          "text": "가 정신 병리적 증상과 연관되며, 문제 중심적 대",
+          "bbox": [
+            633.0,
+            1220.0,
+            1046.0,
+            1245.0
+          ],
+          "confidence": 0.9566978216171265,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 56
+        },
+        {
+          "text": "처는 우울증상을 떨어뜨리고 정서  중심적 대처는",
+          "bbox": [
+            634.0,
+            1256.0,
+            1045.0,
+            1281.0
+          ],
+          "confidence": 0.9503437280654907,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 57
+        },
+        {
+          "text": "우울증상을 증가시키는 것을 확인하였다. 또한 장",
+          "bbox": [
+            634.0,
+            1293.0,
+            1046.0,
+            1316.0
+          ],
+          "confidence": 0.9689368009567261,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 58
+        },
+        {
+          "text": "래문제로 인한 갈등을 심하게 겪고 있는 대학생",
+          "bbox": [
+            636.0,
+            1329.0,
+            1045.0,
+            1350.0
+          ],
+          "confidence": 0.9529140591621399,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 59
+        },
+        {
+          "text": "들의 경우에는 문제 중심적 대처방식의 사용이",
+          "bbox": [
+            630.0,
+            1363.0,
+            1045.0,
+            1387.0
+          ],
+          "confidence": 0.9454048275947571,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 60
+        },
+        {
+          "text": "다가 계속적으로 좌절을 경험한 피험자들이 그 오히려 우울증상을 증폭시키는 것을 확인하였다.",
+          "bbox": [
+            196.0,
+            1398.0,
+            1045.0,
+            1422.0
+          ],
+          "confidence": 0.9502464532852173,
+          "char_confidences": [],
+          "column": null,
+          "layout_type": "text",
+          "reading_order": 61
+        },
+        {
+          "text": "- 41-",
+          "bbox": [
+            593.0,
+            1508.0,
+            647.0,
+            1530.0
+          ],
+          "confidence": 0.8159948587417603,
+          "char_confidences": [],
+          "column": "right",
+          "layout_type": "text",
+          "reading_order": 62
+        }
+      ],
+      "is_multi_column": true,
+      "column_boundary": 519.5
+    }
+  ],
+  "layout_summary": {
+    "pages": [
+      {
+        "page_number": 1,
+        "is_double_column": true,
+        "column_boundary": 519.5,
+        "column_confidence": 0.4709677419354839,
+        "layout_type": "double_column",
+        "layout_regions": 0,
+        "layout_counts": {
+          "text": 63
+        }
+      }
+    ],
+    "has_double_column": true,
+    "double_column_pages": 1,
+    "dominant_layout": "double_column",
+    "layout_counts": {
+      "text": 63
+    }
+  }
+}

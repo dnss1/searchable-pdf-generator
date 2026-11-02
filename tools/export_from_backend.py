@@ -22,7 +22,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1] / "web" / "public"
+ROOT = Path(__file__).resolve().parents[1] / "web-v1" / "public"  # v1 demo data
 DEFAULT_API = "http://127.0.0.1:5015/api"
 
 

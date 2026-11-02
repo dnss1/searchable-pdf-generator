@@ -1,0 +1,14 @@
+# Searchable PDF Generator v2 demo server settings
+# This public build has no OCR engine and is read-only. At startup it resets
+# server/data/ and builds a "테스트 세션" from the pre-processed samples in demo_samples/.
+
+server:
+  backend:
+    host: 127.0.0.1
+    port: 5015
+  cors_origins:
+    - http://localhost:5017
+    - http://127.0.0.1:5017
+
+demo:
+  samples_dir: demo_samples   # relative to the repository root

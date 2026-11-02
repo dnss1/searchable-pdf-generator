@@ -1,0 +1,11 @@
+{
+  "export_id": "demo-test-session-merged",
+  "status": "completed",
+  "progress_percent": 100.0,
+  "current_file": 2,
+  "total_files": 2,
+  "current_page": 2,
+  "total_pages": 2,
+  "message": "Export completed",
+  "download_url": "/sessions/export-download/demo-test-session-merged"
+}

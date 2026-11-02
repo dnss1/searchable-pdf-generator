@@ -1,0 +1,11 @@
+{
+  "export_id": "demo-test-session-multi",
+  "status": "completed",
+  "progress_percent": 100.0,
+  "current_file": 2,
+  "total_files": 2,
+  "current_page": null,
+  "total_pages": null,
+  "message": "Export completed",
+  "download_url": "/sessions/export-download/demo-test-session-multi"
+}

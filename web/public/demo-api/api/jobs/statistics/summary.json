@@ -1,0 +1,10 @@
+{
+  "total_jobs": 2,
+  "status_counts": {
+    "completed": 2
+  },
+  "total_pages_processed": 2,
+  "average_processing_time_seconds": 0,
+  "storage_used_bytes": 2389039,
+  "storage_used_mb": 2.28
+}
